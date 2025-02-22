@@ -1,9 +1,3 @@
-###
-### C# and Java beginner
-### end
-
-
-
 <!--
 **FELLNES5/FELLNES5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
